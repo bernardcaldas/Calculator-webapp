@@ -1,5 +1,7 @@
 ## Calculator Web App using Flask 
 
+### A simple calculator made with bootstrap and flask as backend.
+
 
 -----
 
