@@ -13,5 +13,5 @@
 ## install
 
 ```
-python install app.py
+python app.py
 ```
