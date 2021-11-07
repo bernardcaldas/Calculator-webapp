@@ -25,12 +25,6 @@ def result():
         result = 'Invalid operation'
     entry = result
     print(request.form)
-    #return render_template('index.html')
-    #return redirect(request.url)
-    #return render_template('result.html', entry=entry)
-    #return redirect(url_for('index'))
-    #return jsonify(result)
-    #return redirect(url_for('success',entry=entry))
     return render_template('result.html', entry=entry)
 
     
